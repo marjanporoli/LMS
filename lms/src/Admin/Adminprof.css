@@ -1,0 +1,23 @@
+.profile{
+    border: 2px solid rgb(53, 47, 47);
+    border-radius: 50px;
+    width: 400px;
+    height: 400px;
+   font-display:inherit;
+    /* margin-left: 520px; */
+    /* margin-top: 150px;
+    margin-bottom: 300px; */
+    /* flex-direction: column; */
+    /* justify-content: center; */
+    background-color:rgb(244, 218, 189);
+    font-size:larger;
+    
+}
+.pro{
+    background-color: rgb(179, 206, 214);
+    /* width: 200%; */
+    height: 990px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

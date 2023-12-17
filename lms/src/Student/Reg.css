@@ -1,0 +1,58 @@
+.regist{
+  border: 2px solid rgb(53, 47, 47);
+  border-radius: 50px;
+  width: 350px;
+  height: 800px;
+  /* margin: 100px; */
+  margin-left: 520px;
+  margin-top: 100px;
+  margin-bottom: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: hsla(0, 0%, 100%, 0.5);
+  
+
+}
+.regs{
+  width: 100%;
+  float: center;
+  float: left;
+  background-image: url('https://wallpaperaccess.com/full/4787540.jpg');
+  /* background-repeat:space; */
+  background-position:center ;
+  background-size:cover;
+  /* align-items: center; */
+  /* margin: auto; */
+
+
+}
+
+.login{
+  border: 2px solid rgb(53, 47, 47);
+  border-radius: 50px;
+  width: 350px;
+  height: 500px;
+  margin: 100px;
+  margin-left: 520px;
+  margin-top: 100px;
+  margin-bottom: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color:rgb(244, 218, 189);
+  
+}
+.log{
+  width: 100%;
+  float: center;
+  float: left;
+  background-image: url('https://t3.ftcdn.net/jpg/05/64/83/26/360_F_564832623_lu2ivhD0ecKlw1ImL2OpE30fgV2VZhK2.jpg');
+  background-size: cover;
+  background-position:center ;
+}
+
+
+

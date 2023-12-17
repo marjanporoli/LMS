@@ -1,0 +1,49 @@
+/* .img{
+
+    background-image: url('/HOME.jpg');
+    width: 100%;
+    background-position:center ;
+    background-size:cover;
+    float: left;
+    background-repeat:"none";
+    background-size:"contain";
+
+} */
+.HomePage{
+    width: 100%;
+    /* height: 100vh; */
+    min-height: 100vh;
+    /* float: left; */
+    background-image: url('https://img2.cgtrader.com/items/2669485/6564b7b21d/library-books-shelves-3d-model-low-poly-max-fbx-c4d-ma-blend.jpg');
+    /* background-repeat:space; */
+    background-position:center ;
+    background-size:cover;
+    justify-content:center;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    /* margin: auto; */
+  
+
+}
+.headg{
+    width: 100%;
+    float: left;
+    font-size: 150%;
+    font-weight:bolder;
+    color: rgb(48, 28, 3);
+    background-color: rgb(113, 101, 72);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-image: linear-gradient(rgb(90, 87, 89), rgb(193, 193, 193));
+    
+    
+
+}
+.hm{
+    background-color: rgb(179, 206, 214);
+    width: 100%;
+    height: 950px;
+
+}
+
+

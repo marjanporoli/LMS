@@ -1,0 +1,11 @@
+.allbook{
+    /* background-image: url('https://img2.cgtrader.com/items/2669485/6564b7b21d/library-books-shelves-3d-model-low-poly-max-fbx-c4d-ma-blend.jpg'); */
+   background-color: rgb(179, 206, 214);
+    width: 100%;
+
+    background-size: cover;
+    background-repeat: 'no-repeat';
+    width: '100vw';
+    height: '100%';
+    background-position: center;
+}

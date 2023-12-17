@@ -1,0 +1,27 @@
+.HomePage{
+    background-image:url("../images/HOME.jpg");
+    background-color: rgb(13, 90, 90);
+
+}
+.nav{
+    background-color: rgb(179, 206, 214);
+    width: 100%;
+    height: 950px;
+}
+.back{
+    background-color: aquamarine;
+}
+.img{
+    width: 100%;
+    height: 100vh;
+    /* float: left; */
+    background-image: url('https://wallpapercave.com/wp/wp6011723.jpg');
+    /* background-repeat:space; */
+    background-position:center ;
+    background-size:cover;
+    justify-content:center;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    /* margin: auto; */
+}

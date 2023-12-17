@@ -1,0 +1,24 @@
+.recommondation{
+    border: 2px solid rgb(53, 47, 47);
+    border-radius: 50px;
+    width: 360px;
+    height: 650px;
+    margin-left: 500px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    /* display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; */
+    background-color:rgba(169, 169, 169, 0.8);
+    
+}
+.recommond{
+    width: 100%;
+    float: center;
+    float: left;
+    height: 800px;
+    background-image: url('https://cdn.light-it.net/articles_image/Article39_M1.jpg');
+    background-size: cover;
+    background-position:center ;
+}
